@@ -6,7 +6,7 @@ import { AuthContext, AuthProvider } from "./context/AuthContext";
 import { useContext } from "react";
 // import Feed2 from "./component/Feed2";
 
-function App() {
+function  App() {
   return (
     <div>
       <BrowserRouter>

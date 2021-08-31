@@ -10,6 +10,7 @@ export function AuthProvider({ children }) {
     let userCredentials = await auth.signInWithEmailAndPassword(
       email,
       password
+      
     );
     setSignup(userCredentials.user);
 
