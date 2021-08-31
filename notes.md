@@ -21,4 +21,5 @@
 
   note:-> in route <Route><Route>
                there are both present first component and then render then component will take place
+               
 
